@@ -82,6 +82,4 @@ if __name__ == "__main__":
     arr = [10, 20, 30, 40, 50]
     results = print_combination(arr, len(arr), 3)
 
-    for combo in results:
-        print(" ".join(map(str, combo)))
     # This code is contributed by Ambuj sahu
